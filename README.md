@@ -46,7 +46,7 @@ You will find chess board
 
 The game starts with White and the toggles between Black and White after each successful move. The board
 will refresh with the moved pieces. The user is prompted to enter the "fromPosition" and "toPosition" to
-move a chess piece from "fromPosition" to "toPosition". e.g. c2 c4
+move a chess piece from "fromPosition" to "toPosition". e.g. `c2 c4`
 
 When a move is invalid, the user will be asked to repeat the input.
 
