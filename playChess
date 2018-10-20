@@ -1,0 +1,1 @@
+java  -classpath target/chess-1.0.jar com.navispin.cuebiq.App
